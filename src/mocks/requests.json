@@ -1,0 +1,7 @@
+[
+  { "id": "PR001", "title": "Laptop Procurement - Q1", "department": "IT", "requestedBy": "Carol White", "amount": 45000, "status": "Pending", "priority": "High", "createdAt": "2024-01-15", "vendor": "TechSupply Corp", "category": "Hardware" },
+  { "id": "PR002", "title": "Office Furniture Upgrade", "department": "Admin", "requestedBy": "Bob Smith", "amount": 12000, "status": "Approved", "priority": "Medium", "createdAt": "2024-01-10", "vendor": "Global Logistics Ltd", "category": "Furniture" },
+  { "id": "PR003", "title": "Security Software Licenses", "department": "IT", "requestedBy": "David Lee", "amount": 8500, "status": "Rejected", "priority": "High", "createdAt": "2024-01-08", "vendor": "SecureIT Solutions", "category": "Software" },
+  { "id": "PR004", "title": "Cloud Infrastructure Expansion", "department": "IT", "requestedBy": "Alice Johnson", "amount": 95000, "status": "Pending", "priority": "Critical", "createdAt": "2024-01-20", "vendor": "CloudBase Inc", "category": "Infrastructure" },
+  { "id": "PR005", "title": "Training Materials - HR", "department": "HR", "requestedBy": "Eva Martinez", "amount": 5500, "status": "Approved", "priority": "Low", "createdAt": "2024-01-18", "vendor": "TechSupply Corp", "category": "Training" }
+]

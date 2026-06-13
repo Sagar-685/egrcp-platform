@@ -1,0 +1,15 @@
+.page { display: flex; flex-direction: column; gap: 20px; }
+.back { background: none; border: none; color: var(--primary); cursor: pointer; font-size: 14px; font-weight: 500; padding: 0; }
+.topBar { display: flex; justify-content: space-between; align-items: flex-start; background: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 1px 4px rgba(0,0,0,0.06); }
+.title { font-size: 20px; font-weight: 700; color: var(--text-primary); margin-bottom: 4px; }
+.id { font-size: 13px; color: var(--text-secondary); }
+.tabs { display: flex; gap: 4px; background: #fff; padding: 12px; border-radius: 10px; box-shadow: 0 1px 4px rgba(0,0,0,0.06); }
+.tab { padding: 8px 16px; border: none; background: none; border-radius: 6px; font-size: 14px; cursor: pointer; color: var(--text-secondary); transition: all 0.15s; }
+.tab:hover { background: #f4f6f9; }
+.activeTab { background: var(--primary); color: #fff; }
+.content { background: #fff; border-radius: 10px; padding: 24px; box-shadow: 0 1px 4px rgba(0,0,0,0.06); }
+.detailGrid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+.detailItem { display: flex; flex-direction: column; gap: 4px; }
+.detailLabel { font-size: 12px; color: var(--text-secondary); font-weight: 500; text-transform: uppercase; letter-spacing: 0.5px; }
+.detailValue { font-size: 15px; font-weight: 600; color: var(--text-primary); }
+.emptyTab { text-align: center; padding: 48px; color: var(--text-secondary); font-size: 14px; }

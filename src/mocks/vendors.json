@@ -1,0 +1,7 @@
+[
+  { "id": "V001", "name": "TechSupply Corp", "category": "Technology", "status": "Active", "riskLevel": "Low", "complianceScore": 92, "certExpiry": "2025-12-31", "country": "USA", "contact": "john@techsupply.com", "spend": 450000 },
+  { "id": "V002", "name": "Global Logistics Ltd", "category": "Logistics", "status": "Active", "riskLevel": "Medium", "complianceScore": 74, "certExpiry": "2024-06-30", "country": "UK", "contact": "info@globallogistics.com", "spend": 280000 },
+  { "id": "V003", "name": "SecureIT Solutions", "category": "Security", "status": "Under Review", "riskLevel": "High", "complianceScore": 55, "certExpiry": "2024-03-15", "country": "India", "contact": "ops@secureit.in", "spend": 120000 },
+  { "id": "V004", "name": "CloudBase Inc", "category": "Technology", "status": "Active", "riskLevel": "Low", "complianceScore": 95, "certExpiry": "2026-01-01", "country": "USA", "contact": "sales@cloudbase.com", "spend": 670000 },
+  { "id": "V005", "name": "BuildRight Construction", "category": "Construction", "status": "Inactive", "riskLevel": "High", "complianceScore": 42, "certExpiry": "2023-11-01", "country": "UAE", "contact": "contracts@buildright.ae", "spend": 90000 }
+]

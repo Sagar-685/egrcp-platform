@@ -1,0 +1,6 @@
+[
+  { "id": 1, "title": "New Procurement Request", "message": "PR004 submitted by Alice Johnson requires your approval", "type": "approval", "priority": "High", "read": false, "createdAt": "2024-01-20T10:30:00Z" },
+  { "id": 2, "title": "Vendor Certification Expiring", "message": "Global Logistics Ltd certification expires in 30 days", "type": "warning", "priority": "Medium", "read": false, "createdAt": "2024-01-19T14:00:00Z" },
+  { "id": 3, "title": "Risk Escalated", "message": "Risk R001 has been escalated to High priority", "type": "alert", "priority": "High", "read": true, "createdAt": "2024-01-18T09:15:00Z" },
+  { "id": 4, "title": "Compliance Report Ready", "message": "January compliance report has been generated", "type": "info", "priority": "Low", "read": true, "createdAt": "2024-01-17T16:45:00Z" }
+]

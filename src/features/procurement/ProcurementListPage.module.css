@@ -1,0 +1,9 @@
+.page { display: flex; flex-direction: column; gap: 20px; }
+.header { display: flex; justify-content: space-between; align-items: center; }
+.title { font-size: 22px; font-weight: 700; color: var(--text-primary); }
+.addBtn { background: var(--primary); color: #fff; border: none; padding: 10px 20px; border-radius: 8px; font-size: 14px; font-weight: 600; cursor: pointer; }
+.filters { display: flex; gap: 16px; align-items: center; }
+.search { padding: 9px 14px; border: 1px solid var(--border); border-radius: 8px; font-size: 14px; outline: none; width: 280px; }
+.statusFilters { display: flex; gap: 6px; }
+.filterBtn { padding: 8px 14px; border: 1px solid var(--border); background: #fff; border-radius: 6px; font-size: 13px; cursor: pointer; transition: all 0.15s; }
+.filterBtn.active { background: var(--primary); color: #fff; border-color: var(--primary); }

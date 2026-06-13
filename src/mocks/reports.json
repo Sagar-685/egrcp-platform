@@ -1,0 +1,5 @@
+[
+  { "id": "RPT001", "name": "Q4 Procurement Summary", "type": "Procurement", "generatedBy": "Alice Johnson", "createdAt": "2024-01-15", "status": "Ready" },
+  { "id": "RPT002", "name": "Vendor Risk Assessment", "type": "Vendor", "generatedBy": "Bob Smith", "createdAt": "2024-01-12", "status": "Ready" },
+  { "id": "RPT003", "name": "Annual Compliance Report", "type": "Compliance", "generatedBy": "Eva Martinez", "createdAt": "2024-01-10", "status": "Ready" }
+]

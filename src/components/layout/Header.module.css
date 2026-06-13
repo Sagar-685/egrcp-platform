@@ -1,0 +1,19 @@
+.header { height: 64px; background: #fff; border-bottom: 1px solid var(--border); display: flex; align-items: center; justify-content: space-between; padding: 0 24px; position: sticky; top: 0; z-index: 50; box-shadow: 0 1px 4px rgba(0,0,0,0.06); }
+.searchBar { display: flex; align-items: center; gap: 8px; background: #f4f6f9; border-radius: 8px; padding: 8px 14px; width: 380px; }
+.searchIcon { font-size: 14px; color: var(--text-secondary); }
+.searchInput { background: none; border: none; outline: none; font-size: 14px; color: var(--text-primary); width: 100%; }
+.actions { display: flex; align-items: center; gap: 16px; }
+.iconBtn { background: none; border: none; font-size: 20px; cursor: pointer; position: relative; padding: 4px; }
+.badge { position: absolute; top: -2px; right: -2px; background: #de350b; color: #fff; font-size: 10px; width: 16px; height: 16px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 700; }
+.notifWrapper { position: relative; }
+.notifDropdown { position: absolute; right: 0; top: 40px; width: 320px; background: #fff; border: 1px solid var(--border); border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); z-index: 200; }
+.notifHeader { display: flex; justify-content: space-between; align-items: center; padding: 12px 16px; border-bottom: 1px solid var(--border); font-weight: 600; font-size: 14px; }
+.notifHeader button { background: none; border: none; color: var(--primary); cursor: pointer; font-size: 12px; }
+.notifItem { padding: 12px 16px; border-bottom: 1px solid var(--border); cursor: pointer; }
+.notifItem.unread { background: #f0f7ff; }
+.notifTitle { font-size: 13px; font-weight: 600; color: var(--text-primary); }
+.notifMsg { font-size: 12px; color: var(--text-secondary); margin-top: 2px; }
+.profile { display: flex; align-items: center; gap: 8px; cursor: pointer; padding: 6px 10px; border-radius: 8px; transition: background 0.2s; }
+.profile:hover { background: #f4f6f9; }
+.avatar { width: 32px; height: 32px; background: var(--primary); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: #fff; font-size: 11px; font-weight: 700; }
+.userName { font-size: 14px; font-weight: 500; color: var(--text-primary); }

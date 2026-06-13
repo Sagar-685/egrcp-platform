@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Alice Johnson", "email": "alice@company.com", "password": "admin123", "role": "admin", "department": "IT", "avatar": "AJ" },
+  { "id": 2, "name": "Bob Smith", "email": "bob@company.com", "password": "manager123", "role": "manager", "department": "Finance", "avatar": "BS" },
+  { "id": 3, "name": "Carol White", "email": "carol@company.com", "password": "emp123", "role": "employee", "department": "Operations", "avatar": "CW" },
+  { "id": 4, "name": "David Lee", "email": "david@company.com", "password": "audit123", "role": "auditor", "department": "Compliance", "avatar": "DL" },
+  { "id": 5, "name": "Eva Martinez", "email": "eva@company.com", "password": "comply123", "role": "compliance", "department": "Legal", "avatar": "EM" }
+]

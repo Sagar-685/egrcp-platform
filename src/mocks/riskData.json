@@ -1,0 +1,16 @@
+{
+  "risks": [
+    { "id": "R001", "title": "Vendor Financial Instability", "category": "Financial", "severity": "High", "likelihood": "Medium", "status": "Open", "owner": "Bob Smith", "dueDate": "2024-02-28" },
+    { "id": "R002", "title": "Data Breach - Third Party", "category": "Cybersecurity", "severity": "Critical", "likelihood": "Low", "status": "Mitigated", "owner": "David Lee", "dueDate": "2024-03-15" },
+    { "id": "R003", "title": "Regulatory Non-Compliance", "category": "Compliance", "severity": "High", "likelihood": "Medium", "status": "Open", "owner": "Eva Martinez", "dueDate": "2024-02-15" },
+    { "id": "R004", "title": "Supply Chain Disruption", "category": "Operational", "severity": "Medium", "likelihood": "High", "status": "In Progress", "owner": "Carol White", "dueDate": "2024-04-01" }
+  ],
+  "trendData": [
+    { "month": "Aug", "high": 4, "medium": 6, "low": 8 },
+    { "month": "Sep", "high": 5, "medium": 5, "low": 7 },
+    { "month": "Oct", "high": 3, "medium": 8, "low": 6 },
+    { "month": "Nov", "high": 6, "medium": 4, "low": 9 },
+    { "month": "Dec", "high": 4, "medium": 7, "low": 5 },
+    { "month": "Jan", "high": 5, "medium": 6, "low": 8 }
+  ]
+}
