@@ -61,3 +61,6 @@ npm run dev
 8. Reporting Center
 9. Notifications
 10. Settings
+
+## github token password 
+1. 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
